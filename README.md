@@ -1,2 +1,0 @@
-# waitilst
-waitlist_website
