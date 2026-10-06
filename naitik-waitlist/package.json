@@ -1,0 +1,20 @@
+{
+  "name": "naitik-waitlist",
+  "version": "1.0.0",
+  "description": "Stealth launch waitlist landing page for Naitik's upcoming AI & technology product.",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "node server.js"
+  },
+  "keywords": [
+    "waitlist",
+    "landing-page",
+    "startup",
+    "stealth-launch",
+    "ai",
+    "developer"
+  ],
+  "author": "Naitik",
+  "license": "MIT"
+}
